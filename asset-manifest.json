@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/oshani-code/linkedin_profile/static/css/main.37a9b05b.css",
-    "main.js": "/oshani-code/linkedin_profile/static/js/main.baca842f.js",
-    "static/js/453.7594b941.chunk.js": "/oshani-code/linkedin_profile/static/js/453.7594b941.chunk.js",
-    "index.html": "/oshani-code/linkedin_profile/index.html",
-    "main.37a9b05b.css.map": "/oshani-code/linkedin_profile/static/css/main.37a9b05b.css.map",
-    "main.baca842f.js.map": "/oshani-code/linkedin_profile/static/js/main.baca842f.js.map",
-    "453.7594b941.chunk.js.map": "/oshani-code/linkedin_profile/static/js/453.7594b941.chunk.js.map"
+    "main.css": "/linkedin_profile/static/css/main.37a9b05b.css",
+    "main.js": "/linkedin_profile/static/js/main.c6dce1b3.js",
+    "static/js/453.7594b941.chunk.js": "/linkedin_profile/static/js/453.7594b941.chunk.js",
+    "index.html": "/linkedin_profile/index.html",
+    "main.37a9b05b.css.map": "/linkedin_profile/static/css/main.37a9b05b.css.map",
+    "main.c6dce1b3.js.map": "/linkedin_profile/static/js/main.c6dce1b3.js.map",
+    "453.7594b941.chunk.js.map": "/linkedin_profile/static/js/453.7594b941.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.37a9b05b.css",
-    "static/js/main.baca842f.js"
+    "static/js/main.c6dce1b3.js"
   ]
 }
