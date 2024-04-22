@@ -7,7 +7,7 @@ import SubscriptionsIcon  from '@mui/icons-material/Subscriptions';
 import EventNoteIcon  from '@mui/icons-material/EventNote';
 import CalendarViewDayIcon  from '@mui/icons-material/CalendarViewDay';
 import Post from "./Post";
-import { db } from "./firebaseApp";
+import { db } from "./firebase";
 import firebase from "./firebase";
 
 function Feed() {
